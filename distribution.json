@@ -1473,16 +1473,6 @@
           }
         },
         {
-          "id": "net.fabricmc.fabric.impl.sinytra:fabric_api:0.92.2+1.11.8+1.20.1@jar",
-          "name": "Forgified Fabric API",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3041071,
-            "url": "https://donghyeonlee03.github.io/file/servers/umseokhee-1.20.1/forgemods/required/fabric-api-0.92.2+1.11.8+1.20.1.jar",
-            "MD5": "7217481b8e9f40ac27273c1b5df0feb3"
-          }
-        },
-        {
           "id": "net.fabricmc.fabric.impl.sinytra:fabric_api:0.92.2+1.11.9+1.20.1@jar",
           "name": "Forgified Fabric API",
           "type": "ForgeMod",
