@@ -1443,16 +1443,6 @@
           }
         },
         {
-          "id": "net.fabricmc.fabric.impl.sinytra:fabric_api:0.92.2+1.11.9+1.20.1@jar",
-          "name": "Forgified Fabric API",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3041099,
-            "url": "https://donghyeonlee03.github.io/file/servers/umseokhee-1.20.1/forgemods/required/fabric-api-0.92.2+1.11.9+1.20.1.jar",
-            "MD5": "84ec2ca3870de03168217cead52b40d1"
-          }
-        },
-        {
           "id": "de.cheaterpaul:fallingleaves:2.1.0@jar",
           "name": "Falling Leaves",
           "type": "ForgeMod",
